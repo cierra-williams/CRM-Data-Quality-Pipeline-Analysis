@@ -3,6 +3,18 @@
 ## Overview
 This portfolio project analyzes a synthetic CRM dataset to identify data-quality problems, pipeline bottlenecks, follow-up gaps, and sales performance trends.
 
+## Dashboard Preview
+
+![CRM Data Quality & Sales Pipeline Dashboard](crm_dashboard_preview.png)
+
+## Key Findings
+
+- 380 unique leads were identified after duplicate review.
+- 227 leads reached qualified status.
+- 52 leads converted to Closed Won, resulting in a 13.7% conversion rate.
+- The active sales pipeline represents approximately $12.8 million in estimated value.
+- The analysis identified CRM quality issues involving duplicate records, missing ownership, incomplete company information, stale leads, and overdue follow-ups.
+
 ## Tools
 - Microsoft Excel
 - Excel formulas and tables
