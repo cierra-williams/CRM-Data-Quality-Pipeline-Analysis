@@ -1,0 +1,401 @@
+Lead_ID,First_Name,Last_Name,Company,Email,Phone,State,Lead_Source,Sales_Stage,Lead_Owner,Created_Date,Last_Contact_Date,Next_Followup_Date,Estimated_Value,Industry,Qualified,Converted,Closed_Date
+L-0001,Noah,Smith,Horizon Bio,noah.smith31@northmail.com,(424) 438-9279,FL, Website ,new,Jordan Lee,2026-02-04,2026-06-23,2026-06-28,51200,Retail,No,No,
+L-0002,Olivia,Wilson,Summit Analytics,olivia.wilson471@northmail.com,(588) 280-5803,AZ, Website ,WON,Jamie Brooks,2026-03-11,2026-05-17,,69100,Technology,Yes,Yes,2026-05-17
+L-0003,Logan,GARCIA,Pioneer Tech,logan.garcia547@examplebiz.com,(368) 673-7216,FL,LinkedIn,Opportunity,Taylor Morgan,2026-02-19,2026-08-03,2026-08-08,52800,Biotech,Yes,No,
+L-0004,luna,WILSON,apex manufacturing,luna.wilson552@prospect.co,(965) 798-8019,AZ,Email,OPP,ALEX KIM,2026-07-07,2026-07-23,2026-07-30,22800,Logistics,Yes,No,
+L-0005,Amelia,Thompson,prairie health,amelia.thompson788@prospect.co,(315) 500-8123,GA,email campaign,New,,2026-02-09,2026-03-10,2026-04-03,75500,Financial Services,No,No,
+L-0006, Logan ,Garcia,Northstar Labs,logan.garcia247@northmail.com,(288) 949-8962,NC,website,LOST,Jordan Lee,2026-01-12,2026-08-06,,27900,Biotech,Yes,No,2026-08-14
+L-0007,logan,Moore,Prairie Health,logan.moore73@northmail.com,(435) 269-1514,FL, Website ,contacted,jordan lee,2026-03-15,2026-08-03,2026-08-13,51000,Technology,No,No,
+L-0008,JAMES,Anderson,Vertex Solutions, james.anderson348@northmail.com ,(455) 396-4116,NC,Email Campaign,New,Jamie Brooks,2026-02-26,2026-08-10,2026-08-16,7500,Professional Services,No,No,
+L-0009,Mason,GARCIA,Vertex Solutions,mason.garcia272@mailhub.net,(493) 633-8973,NC,website,Contacted,Morgan Reed,2026-07-28,2026-08-02,2026-08-17,2700,Logistics,No,No,
+L-0010,mia,Garcia,BrightPath Health,mia.garcia84@mailhub.net,(874) 797-9565,OH,Email Campaign,Contact,Alex Kim,2026-03-20,2026-05-22,2026-06-12,51500,Technology,No,No,
+L-0011,Luna,Brown,,luna.brown449@prospect.co,(827) 869-9666,GA,REFERRAL,closed lost,Taylor Morgan,2026-07-26,2026-08-02,,33000,Retail,Yes,No,2026-08-04
+L-0012,Olivia,Rodriguez,Atlas Commerce,,(366) 959-8239,CO,website,Qual,taylor morgan,2026-06-03,2026-06-08,2026-06-11,30000,Financial Services,Yes,No,
+L-0013,Lucas,Anderson,,lucas.anderson159@examplebiz.com,(367) 381-7755,FL,LinkedIn,opportunity,Jamie Brooks,2026-05-14,2026-07-24,2026-08-09,82800,Biotech,Yes,No,
+L-0014,benjamin,Davis, Apex Manufacturing ,benjamin.davis409@prospect.co,(486) 271-5573,IL,Referral,Closed-Won,Taylor Morgan,2026-06-15,2026-07-13,,4500,Logistics,Yes,Yes,2026-07-13
+L-0015,Isabella,Taylor,Summit Analytics,isabella.taylor704@examplebiz.com,(573) 641-2146,WA,website,New,Alex Kim,2026-04-23,2026-04-23,2026-05-12,78900,Professional Services,No,No,
+L-0016,Amelia,Garcia,Evergreen Services, amelia.garcia477@mailhub.net ,(653) 891-4501,GA,email campaign,CONTACTED,Casey Patel,2026-06-20,2026-07-17,2026-08-07,52500,Professional Services,No,No,
+L-0017,Olivia,jones,Northstar Labs,olivia.jones590@examplebiz.com,,FL,Cold Outreach,Opportunity,Jamie Brooks,2026-01-28,2026-02-15,2026-03-04,36700,Healthcare,Yes,No,
+L-0018,Noah,Moore,Blue Ridge Supply,noah.moore437@mailhub.net,(363) 961-8777,OH,webinar,QUALIFIED,Alex Kim,2026-05-23,2026-07-18,2026-08-09,69700,Logistics,Yes,No,
+L-0019,Mia,JONES,Blue Ridge Supply,mia.jones426@northmail.com,(412) 630-7381,AZ,Linked In,OPP,Morgan Reed,2026-07-27,2026-08-09,2026-08-25,29800,Retail,Yes,No,
+L-0020,elijah,Thompson,, elijah.thompson742@examplebiz.com ,,FL,referral,Qual,Morgan Reed,2026-05-05,2026-06-17,2026-07-11,58500,Logistics,Yes,No,
+L-0021,Amelia,Rodriguez,Vertex Solutions,amelia.rodriguez42@northmail.com,(454) 404-1333,TX,Webinar,opportunity,jamie brooks,2026-07-30,2026-08-10,2026-08-20,56100,Financial Services,Yes,No,
+L-0022,Ava,Martinez,Silverline Foods,ava.martinez871@northmail.com,(780) 242-6688,PA,website,Qual, Casey Patel ,2026-01-12,2026-06-21,2026-07-01,10900,Professional Services,Yes,No,
+L-0023,Evelyn,Rodriguez,Atlas Commerce,evelyn.rodriguez250@mailhub.net,(784) 824-7209,AZ,email campaign,Qualified,Morgan Reed,2026-05-22,2026-06-22,2026-06-27,25500,Logistics,Yes,No,
+L-0024,James,Jackson,clearview media,james.jackson250@prospect.co,(880) 795-7046,OH,linkedin,qualified, Jamie Brooks ,2026-08-08,2026-08-09,2026-08-21,20800,Logistics,Yes,No,
+L-0025,Benjamin,Rodriguez,Evergreen Services,benjamin.rodriguez47@northmail.com,,FL,Referral,Contact,Casey Patel,2026-05-27,2026-05-28,2026-06-22,46600,Technology,No,No,
+L-0026,Luna,johnson,Blue Ridge Supply,luna.johnson611@examplebiz.com,(736) 589-8381,WA,Outbound,New,Alex Kim,2026-06-10,2026-06-25,2026-07-15,65600,Manufacturing,No,No,
+L-0027,Elijah,Williams,CedarWorks,elijah.williams720@mailhub.net,273-903-4824,AZ,Webinar,QUALIFIED,Casey Patel,2026-05-30,2026-06-03,2026-06-13,26300,Healthcare,Yes,No,
+L-0028,LUNA,Martinez,Prairie Health,luna.martinez613@northmail.com,(643) 952-6280,NC,linkedin,opportunity,,2026-06-04,2026-08-07,2026-08-27,43200,Technology,Yes,No,
+L-0029,Evelyn,moore,Horizon Bio,evelyn.moore329@northmail.com,(365) 537-7744,WA,Webinar,Closed-Won,Casey Patel,2026-07-20,2026-08-04,,31200,Manufacturing,Yes,Yes,2026-08-09
+L-0030,olivia,Martin,Pioneer Tech,,(325) 229-4920,OH,WEBINAR,new,Morgan Reed,2026-06-05,2026-08-14,2026-08-21,79000,Logistics,No,No,
+L-0031,Sophia,Taylor,Atlas Commerce,sophia.taylor885@northmail.com,,FL,webinar,NEW,Taylor Morgan,2026-06-25,2026-08-02,2026-08-21,64100,Logistics,No,No,
+L-0032,Amelia,Moore,Redstone Consulting,amelia.moore723@mailhub.net,(596) 879-3492,PA,website,Contacted,,2026-01-26,2026-05-11,2026-05-15,28700,Retail,No,No,
+L-0033,Benjamin,Rodriguez,redstone consulting,benjamin.rodriguez736@mailhub.net,(755) 236-2121,OH,Website,Contacted,Jamie Brooks,2026-02-21,2026-07-07,2026-07-22,81200,Professional Services,No,No,
+L-0034,Liam,Martinez,Pioneer Tech,liam.martinez892@mailhub.net,835-899-4945,AZ,WEB,QUALIFIED,Alex Kim,2026-03-21,2026-05-06,2026-05-14,16900,Biotech,Yes,No,
+L-0035,James,Rodriguez,Prairie Health,james.rodriguez589@prospect.co,(917) 502-1359,FL,outbound,WON, Casey Patel ,2026-07-16,2026-07-31,,34000,Financial Services,Yes,Yes,2026-07-31
+L-0036,Olivia,Thompson,Horizon Bio,olivia.thompson750@examplebiz.com,(293) 502-6352,OH,WEB,OPP,Casey Patel,2026-08-02,2026-08-11,2026-08-28,5300,Manufacturing,Yes,No,
+L-0037,Noah,Moore,BrightPath Health,noah.moore15@prospect.co,(750) 326-8451,FL,email campaign,OPP,MORGAN REED,2026-05-03,2026-08-13,2026-09-02,32700,Manufacturing,Yes,No,
+L-0038,Harper,Martinez,VERTEX SOLUTIONS,harper.martinez139@mailhub.net,(665) 579-9850,CA,website,new,alex kim,2026-04-08,2026-05-07,2026-05-13,21900,Technology,No,No,
+L-0039,Logan,lee,Pioneer Tech, logan.lee658@northmail.com ,(252) 541-4990,AZ,referral,closed lost,Taylor Morgan,2026-01-14,2026-05-10,,10100,Healthcare,Yes,No,2026-05-13
+L-0040,Ethan,BROWN,Northstar Labs,ethan.brown54@examplebiz.com,(960) 631-9619,CO, Referal ,Closed Won,CASEY PATEL,2026-03-15,2026-06-05,,3800,Manufacturing,Yes,Yes,2026-06-08
+L-0041,Benjamin,Thomas,Vertex Solutions,benjamin.thomas282@prospect.co,(591) 811-9692,NC,Linked In,QUALIFIED,Taylor Morgan,2026-07-23,2026-08-02,2026-08-24,14700,Technology,Yes,No,
+L-0042,Amelia,Taylor,Summit Analytics,amelia.taylor96@mailhub.net,(299) 962-7105,AZ,REFERRAL,CONTACTED,Jordan Lee,2026-07-04,2026-08-16,2026-09-03,8000,Biotech,No,No,
+L-0043,Luna, Martin ,apex manufacturing,luna.martin588@examplebiz.com,,OH,WEBINAR,Closed Won,casey patel,2026-05-15,2026-07-25,,32800,Manufacturing,Yes,Yes,2026-07-30
+L-0044,Evelyn,miller,Silverline Foods,evelyn.miller160@examplebiz.com,(973) 832-1815,NC, Referal ,CONTACTED,JORDAN LEE,2026-02-09,2026-05-03,2026-05-24,51700,Professional Services,No,No,
+L-0045,Amelia,Thompson,Peakline Systems, amelia.thompson510@mailhub.net ,(380) 332-7229,FL, Referal ,Contact,Jordan Lee,2026-07-08,2026-07-24,2026-08-05,29600,Healthcare,No,No,
+L-0046,James,martinez,Summit Analytics,james.martinez448@northmail.com,(450) 646-7560,CO,outbound,New,jordan lee,2026-03-07,2026-07-02,2026-07-27,78400,Professional Services,No,No,
+L-0047,Sophia,Miller,CEDARWORKS,sophia.miller779@mailhub.net,898-778-6295,OH,WEB,LOST,ALEX KIM,2026-03-05,2026-07-09,,40800,Manufacturing,Yes,No,2026-07-13
+L-0048,Mia, Thompson ,Silverline Foods,mia.thompson668@examplebiz.com,(530) 819-8792,WA,Tradeshow,WON,Alex Kim,2026-08-02,2026-08-16,,77500,Logistics,Yes,Yes,2026-08-17
+L-0049,lucas,Thomas,vertex solutions,lucas.thomas572@mailhub.net,(491) 458-3463,OH,trade show,closed won,Jordan Lee,2026-02-28,2026-05-24,,7900,Biotech,Yes,Yes,2026-05-30
+L-0050,evelyn,Williams, Vertex Solutions ,evelyn.williams159@northmail.com,(503) 303-9317,CO,referral,NEW,Taylor Morgan,2026-06-19,2026-07-10,2026-07-28,18300,Biotech,No,No,
+L-0051,James,anderson,Clearview Media,james.anderson926@examplebiz.com,(577) 894-8218,WA,Referral,OPP,Morgan Reed,2026-04-20,2026-05-19,2026-06-08,22200,Logistics,Yes,No,
+L-0052,Noah,Martinez,,logan.moore73@northmail.com,(558) 227-7797,NY,webinar,Qual,Taylor Morgan,2026-01-12,2026-05-03,2026-05-08,80600,Manufacturing,Yes,No,
+L-0053,Emma,JACKSON,,emma.jackson795@prospect.co,(444) 508-2996,TX,website,CONTACTED,Jordan Lee,2026-07-05,2026-08-09,2026-08-31,46000,Healthcare,No,No,
+L-0054,Henry,Anderson,Clearview Media,henry.anderson568@northmail.com,,CA,LinkedIn,new,Alex Kim,2026-05-12,2026-05-20,2026-06-08,47400,Professional Services,No,No,
+L-0055,Ethan,MOORE,Atlas Commerce,ethan.moore811@examplebiz.com,(243) 523-6080,CA, Website ,Closed-Won,Jordan Lee,2026-04-17,2026-04-21,,26700,Manufacturing,Yes,Yes,2026-04-26
+L-0056, Amelia ,Wilson,CedarWorks,amelia.wilson435@northmail.com,(641) 816-3956,PA,WEBINAR,Closed-Lost,Jamie Brooks,2026-04-02,2026-06-09,,68600,Logistics,Yes,No,2026-06-15
+L-0057,Liam,WILLIAMS,silverline foods,,(269) 441-7001,GA,EMAIL,OPP,Morgan Reed,2026-08-05,2026-08-07,2026-08-29,58400,Biotech,Yes,No,
+L-0058,Noah,Smith,CedarWorks, noah.smith293@mailhub.net ,(405) 325-3223,GA,REFERRAL,qualified,Alex Kim,2026-06-06,2026-07-09,2026-08-03,39300,Logistics,Yes,No,
+L-0059,ETHAN,Anderson,Clearview Media,ethan.anderson479@examplebiz.com,(827) 288-2077,FL,EMAIL,contacted,Casey Patel,2026-04-08,2026-04-14,2026-04-28,48200,Technology,No,No,
+L-0060,Elijah,Perez,CedarWorks, elijah.perez169@examplebiz.com ,(531) 926-4694,AZ,WEBINAR,closed won, Casey Patel ,2026-01-12,2026-02-12,,45200,Manufacturing,Yes,Yes,2026-02-20
+L-0061,Henry,THOMPSON,REDSTONE CONSULTING,henry.thompson786@mailhub.net,(833) 854-1496,CO,website,LOST,Taylor Morgan,2026-01-27,2026-06-23,,24300,Healthcare,Yes,No,2026-06-29
+L-0062,Isabella,Wilson,Pioneer Tech,isabella.wilson461@examplebiz.com,(345) 299-1829,CA,Linked In,Qual,Casey Patel,2026-07-16,2026-08-05,2026-08-15,41000,Professional Services,Yes,No,
+L-0063,Benjamin,Smith, BrightPath Health ,benjamin.smith612@mailhub.net,493-749-1133,GA,WEBINAR,Contact,Morgan Reed,2026-03-16,2026-06-14,2026-06-18,6700,Professional Services,No,No,
+L-0064,Sophia,Thompson,,sophia.thompson204@mailhub.net,(713) 241-1742,TX,REFERRAL,WON,Taylor Morgan,2026-05-18,2026-07-28,,80000,Manufacturing,Yes,Yes,2026-07-30
+L-0065, Evelyn ,Lee,Atlas Commerce,evelyn.lee894@northmail.com,(812) 685-5350,NC,email campaign,Contacted,Jamie Brooks,2026-02-21,2026-03-21,2026-04-06,50700,Financial Services,No,No,
+L-0066,Noah,Miller,Northstar Labs,noah.miller894@northmail.com,(923) 341-9498,IL,REFERRAL,Contact, Morgan Reed ,2026-06-21,2026-07-17,2026-08-05,66400,Logistics,No,No,
+L-0067,Mason,Rodriguez,Evergreen Services,mason.rodriguez574@prospect.co,(495) 324-9899,NY,Email,Opportunity, Casey Patel ,2026-02-17,2026-08-16,2026-09-03,28700,Retail,Yes,No,
+L-0068,elijah,Rodriguez,Horizon Bio,elijah.rodriguez654@examplebiz.com,(254) 302-7771,TX,trade show,QUALIFIED,Taylor Morgan,2026-06-11,2026-06-17,2026-07-11,77200,Manufacturing,Yes,No,
+L-0069,Liam,williams,Clearview Media,liam.williams191@prospect.co,(239) 209-5888,CA,REFERRAL,closed won,Morgan Reed,2026-08-03,2026-08-16,,35300,Healthcare,Yes,Yes,2026-08-17
+L-0070,Sophia,Garcia,Northstar Labs,sophia.garcia528@prospect.co,289-610-2562,NY,trade show,OPP,Morgan Reed,2026-06-29,2026-08-07,2026-08-30,76500,Biotech,Yes,No,
+L-0071,Noah,Moore,Evergreen Services,noah.moore939@prospect.co,(577) 829-4618,AZ,LinkedIn,Closed-Lost,Jamie Brooks,2026-02-13,2026-05-03,,59400,Manufacturing,Yes,No,2026-05-11
+L-0072,LOGAN,Williams,Summit Analytics,logan.williams453@northmail.com,(897) 410-9008,GA,Outbound,contacted,Alex Kim,2026-03-28,2026-05-05,2026-05-13,29600,Healthcare,No,No,
+L-0073,liam,Taylor,pioneer tech,liam.taylor185@examplebiz.com,(985) 856-7887,GA,outbound,closed lost,Morgan Reed,2026-07-26,2026-08-10,,5100,Technology,Yes,No,2026-08-17
+L-0074,Ava,Martinez,Prairie Health,ava.martinez784@northmail.com,233-876-7868,GA, Referal ,contacted,Jamie Brooks,2026-04-17,2026-05-31,2026-06-07,25200,Professional Services,No,No,
+L-0075,Liam,Jones,,liam.jones677@examplebiz.com,(624) 507-5508,PA,trade show,Qual,Taylor Morgan,2026-01-27,2026-07-18,2026-07-31,22000,Retail,Yes,No,
+L-0076,Lucas,Thomas,CEDARWORKS,lucas.thomas423@mailhub.net,(771) 742-3196,FL,Email Campaign,Contacted, Alex Kim ,2026-02-12,2026-03-20,2026-04-06,78000,Logistics,No,No,
+L-0077,Luna,Lee,Apex Manufacturing,luna.lee765@mailhub.net,(449) 912-4350,FL,Email,CONTACTED,Jordan Lee,2026-08-09,2026-08-12,2026-08-21,81900,Logistics,No,No,
+L-0078,Logan,Wilson,Vertex Solutions,logan.wilson738@mailhub.net,(503) 356-4214,WA,email campaign,OPP,Alex Kim,2026-08-08,2026-08-12,2026-09-01,79600,Healthcare,Yes,No,
+L-0079,Ethan,Jones,Atlas Commerce,ethan.jones968@northmail.com,(983) 206-7756,GA,Outbound,Closed-Lost,JORDAN LEE,2026-03-31,2026-04-08,,71700,Manufacturing,Yes,No,2026-04-08
+L-0080,Evelyn,Rodriguez,Evergreen Services,evelyn.rodriguez153@examplebiz.com,(397) 834-9625,GA,Email Campaign,Opportunity,Alex Kim,2026-01-18,2026-03-04,2026-03-10,78200,Healthcare,Yes,No,
+L-0081,Amelia,Lee,Atlas Commerce, amelia.lee879@northmail.com ,(741) 243-4764,OH,WEB,New,Alex Kim,2026-04-07,2026-07-27,2026-08-19,67200,Healthcare,No,No,
+L-0082,Luna,JONES,Silverline Foods,luna.jones340@mailhub.net,(974) 957-3292,NY,WEB,Contacted,Alex Kim,2026-01-11,2026-08-16,2026-08-31,58400,Technology,No,No,
+L-0083,harper,Jackson,Clearview Media,harper.jackson303@examplebiz.com,(931) 275-2344,GA,Outbound,qualified,Alex Kim,2026-02-19,2026-07-18,2026-08-11,33900,Biotech,Yes,No,
+L-0084, Elijah ,Lee,Vertex Solutions,elijah.lee299@mailhub.net,(598) 997-2387,CO,WEB,Qual,Jordan Lee,2026-03-13,2026-08-13,2026-08-26,73800,Technology,Yes,No,
+L-0085,mia,Anderson,Horizon Bio,mia.anderson972@mailhub.net,(541) 835-7224,PA,TRADE SHOW,QUALIFIED,Jordan Lee,2026-06-23,2026-07-22,2026-07-28,13700,Retail,Yes,No,
+L-0086,Benjamin,perez,Clearview Media,benjamin.perez607@examplebiz.com,(899) 986-1440,AZ, Referal ,Closed-Won,TAYLOR MORGAN,2026-05-11,2026-05-25,,79400,Biotech,Yes,Yes,2026-05-31
+L-0087,Henry,Jackson,SILVERLINE FOODS,henry.jackson112@examplebiz.com,(874) 880-6816,GA,website,Closed-Lost,Jordan Lee,2026-02-14,2026-07-01,,51500,Professional Services,Yes,No,2026-07-06
+L-0088,harper,Perez,Blue Ridge Supply,harper.perez467@examplebiz.com,(734) 694-6706,CO,WEBINAR,contacted,Casey Patel,2026-07-22,2026-07-25,2026-08-01,31200,Biotech,No,No,
+L-0089,elijah,Garcia, Redstone Consulting ,elijah.garcia30@examplebiz.com,(661) 806-8037,NC,WEB,Contact,Morgan Reed,2026-06-26,2026-07-07,2026-07-30,56700,Professional Services,No,No,
+L-0090,Isabella,Thompson,Silverline Foods,isabella.thompson820@prospect.co,(830) 804-2388,WA,website,contacted,Jamie Brooks,2026-04-17,2026-07-05,2026-07-13,69600,Professional Services,No,No,
+L-0091,Emma,Garcia,Redstone Consulting,emma.garcia987@mailhub.net,(619) 901-9056,WA, Website ,Contacted,Morgan Reed,2026-08-10,2026-08-17,2026-08-24,18600,Logistics,No,No,
+L-0092,Sophia,Lee,Pioneer Tech,sophia.lee896@northmail.com,(661) 469-6711,PA,WEBINAR,contacted,Casey Patel,2026-04-26,2026-05-09,2026-06-01,64500,Healthcare,No,No,
+L-0093,Olivia,Johnson,Pioneer Tech,olivia.johnson922@northmail.com,(339) 968-7743,WA,WEBINAR,CONTACTED,Alex Kim,2026-02-13,2026-04-28,2026-05-10,49800,Financial Services,No,No,
+L-0094,Amelia,Moore,BrightPath Health,amelia.moore890@northmail.com,(949) 669-6869,AZ,webinar,Contacted,JORDAN LEE,2026-05-10,2026-07-07,2026-07-25,29500,Technology,No,No,
+L-0095,Harper,Smith,Summit Analytics, harper.smith904@prospect.co ,(363) 480-2529,NC,Webinar,Closed-Lost,TAYLOR MORGAN,2026-04-25,2026-05-20,,84600,Manufacturing,Yes,No,2026-05-24
+L-0096,LUNA,Davis,Prairie Health,luna.davis235@mailhub.net,(292) 948-2678,CO,linkedin,closed won,Jordan Lee,2026-04-26,2026-07-23,,13400,Healthcare,Yes,Yes,2026-07-25
+L-0097,Henry, Moore ,Apex Manufacturing,elijah.garcia30@examplebiz.com,(454) 483-2380,TX,Website,New,Casey Patel,2026-02-07,2026-05-16,2026-05-30,82000,Technology,No,No,
+L-0098,NOAH,DAVIS,Atlas Commerce,noah.davis431@prospect.co,,GA,Email,new,Alex Kim,2026-05-12,2026-06-21,2026-06-28,34400,Technology,No,No,
+L-0099,Mia,Lee,Blue Ridge Supply,mia.lee601@northmail.com,(518) 915-8167,TX,referral,Qualified, Morgan Reed ,2026-06-21,2026-08-11,2026-08-18,46800,Financial Services,Yes,No,
+L-0100,Logan,Martin,horizon bio,luna.lee765@mailhub.net,(479) 736-2046,IL,website,Closed Won,JORDAN LEE,2026-06-05,2026-06-20,,66100,Manufacturing,Yes,Yes,2026-06-22
+L-0101,Ava,Davis,Peakline Systems, ava.davis230@prospect.co ,(455) 626-6241,IL,REFERRAL,new,Morgan Reed,2026-08-03,2026-08-11,2026-09-05,63600,Logistics,No,No,
+L-0102,Elijah,MOORE,Northstar Labs,,(401) 950-9954,FL,REFERRAL,Closed Won, Casey Patel ,2026-02-04,2026-07-13,,22500,Biotech,Yes,Yes,2026-07-13
+L-0103,Mason,Taylor,Atlas Commerce,mason.taylor998@northmail.com,(795) 297-9280,CA,LINKEDIN,new,Morgan Reed,2026-06-14,2026-08-05,2026-08-30,76400,Healthcare,No,No,
+L-0104,MASON,Williams,Apex Manufacturing, mason.williams367@examplebiz.com ,(663) 515-8591,WA,WEB,new,Alex Kim,2026-04-19,2026-06-17,2026-06-30,36000,Manufacturing,No,No,
+L-0105,Lucas,Rodriguez,CEDARWORKS, lucas.rodriguez125@northmail.com ,(264) 999-4641,AZ,Email,qualified,taylor morgan,2026-03-25,2026-05-27,2026-06-02,40600,Healthcare,Yes,No,
+L-0106,Isabella,Brown,Peakline Systems,isabella.brown700@mailhub.net,(377) 562-4517,CO, Website ,qualified,Morgan Reed,2026-01-14,2026-07-18,2026-08-02,43400,Logistics,Yes,No,
+L-0107,Evelyn,Davis,,evelyn.davis277@examplebiz.com,(227) 526-4588,PA,referral,QUALIFIED,Morgan Reed,2026-04-10,2026-07-07,2026-07-28,43900,Professional Services,Yes,No,
+L-0108,Liam,davis,Silverline Foods,liam.davis29@prospect.co,(782) 777-3328,CA,Website,QUALIFIED,Alex Kim,2026-01-18,2026-07-25,2026-08-19,32100,Biotech,Yes,No,
+L-0109,Olivia,Jones,Redstone Consulting,olivia.jones984@northmail.com,(583) 921-7481,IL,WEB,New,Casey Patel,2026-02-13,2026-03-21,2026-03-27,72300,Manufacturing,No,No,
+L-0110,Ethan,Thomas,Evergreen Services,ethan.thomas34@examplebiz.com,(817) 525-4619,CA,WEB,new,ALEX KIM,2026-02-14,2026-07-10,2026-07-25,72700,Financial Services,No,No,
+L-0111, Olivia ,DAVIS,BrightPath Health,olivia.davis906@mailhub.net,(705) 587-6754,NY,Email Campaign,Opportunity,Taylor Morgan,2026-07-31,2026-08-12,2026-08-29,62900,Biotech,Yes,No,
+L-0112,Amelia,Garcia,brightpath health,amelia.garcia622@mailhub.net,(361) 254-2659,IL,TRADE SHOW,Opportunity,TAYLOR MORGAN,2026-04-11,2026-04-18,2026-05-04,80300,Technology,Yes,No,
+L-0113,Ava, Taylor ,BRIGHTPATH HEALTH,ava.taylor84@mailhub.net,(319) 515-7512,OH,trade show,Qualified,casey patel,2026-07-19,2026-07-19,2026-07-28,16600,Financial Services,Yes,No,
+L-0114,Noah,Williams,pioneer tech,noah.williams704@mailhub.net,,WA,website,New,Alex Kim,2026-05-05,2026-08-17,2026-09-05,37000,Professional Services,No,No,
+L-0115,Emma,johnson,vertex solutions,emma.johnson328@northmail.com,(290) 597-7510,OH,Webinar,Closed Lost,Casey Patel,2026-03-05,2026-04-11,,71300,Technology,Yes,No,2026-04-19
+L-0116,Noah,Martinez,Pioneer Tech,noah.martinez148@mailhub.net,(240) 605-6431,NY,referral,qualified,,2026-03-10,2026-07-09,2026-07-13,16700,Professional Services,Yes,No,
+L-0117,Lucas,Moore,REDSTONE CONSULTING,lucas.moore759@mailhub.net,(978) 728-7126,PA,Referral,Opportunity,MORGAN REED,2026-06-25,2026-07-23,2026-08-01,77900,Financial Services,Yes,No,
+L-0118, Liam ,Anderson,Apex Manufacturing,logan.moore73@northmail.com,(382) 685-6730,IL,email campaign,QUALIFIED,Casey Patel,2026-03-03,2026-04-03,2026-04-27,5000,Financial Services,Yes,No,
+L-0119,EVELYN,Smith,Northstar Labs,evelyn.smith730@prospect.co,(634) 585-6713,CA,LINKEDIN,opportunity,Casey Patel,2026-08-10,2026-08-13,2026-08-24,52700,Logistics,Yes,No,
+L-0120,Benjamin,Williams,REDSTONE CONSULTING,benjamin.williams784@examplebiz.com,(259) 814-7620,OH,referral,CONTACTED,Alex Kim,2026-02-26,2026-08-11,2026-08-23,18000,Financial Services,No,No,
+L-0121,Mason,Lee,Atlas Commerce,mason.lee132@prospect.co,(943) 772-3999,GA,Referral,new,MORGAN REED,2026-02-25,2026-07-17,2026-07-25,26700,Biotech,No,No,
+L-0122,Luna,Perez, BrightPath Health ,luna.perez892@examplebiz.com,341-405-6614,FL,webinar,closed won,Jordan Lee,2026-05-07,2026-07-13,,27100,Logistics,Yes,Yes,2026-07-14
+L-0123,Ethan,Perez,CedarWorks,mia.lee601@northmail.com,(747) 404-7112,TX,WEB,qualified,MORGAN REED,2026-04-25,2026-06-15,2026-07-01,82100,Logistics,Yes,No,
+L-0124, Liam ,MARTINEZ,Evergreen Services,liam.martinez924@mailhub.net,,PA,Webinar,Qual,Casey Patel,2026-04-23,2026-08-14,2026-09-07,84600,Logistics,Yes,No,
+L-0125,Sophia,Lee,Peakline Systems,,(686) 918-3508,OH,WEB,Closed Won,Morgan Reed,2026-07-31,2026-08-03,,36900,Healthcare,Yes,Yes,2026-08-05
+L-0126,Benjamin,Miller,APEX MANUFACTURING,benjamin.miller933@examplebiz.com,(905) 692-6416,GA,outbound,Contact,,2026-04-30,2026-06-06,2026-06-14,5800,Financial Services,No,No,
+L-0127,Lucas,rodriguez,,lucas.rodriguez437@northmail.com,(298) 976-1751,TX,Email,Closed-Won,Casey Patel,2026-05-30,2026-07-15,,68600,Healthcare,Yes,Yes,2026-07-19
+L-0128,Sophia,Thomas,Atlas Commerce,sophia.thomas495@mailhub.net,386-825-7221,OH,EMAIL,New,Alex Kim,2026-07-10,2026-07-13,2026-07-21,11100,Professional Services,No,No,
+L-0129,Evelyn,Perez,,evelyn.perez355@mailhub.net,(353) 771-1894,GA,WEBINAR,Opportunity,Morgan Reed,2026-07-19,2026-08-01,2026-08-25,62400,Biotech,Yes,No,
+L-0130,Amelia,Thomas,,amelia.thomas510@northmail.com,(306) 613-7755,NC,webinar,QUALIFIED,Jordan Lee,2026-07-21,2026-08-17,2026-09-04,39400,Technology,Yes,No,
+L-0131,mason,Moore, Redstone Consulting ,mason.moore364@prospect.co,(761) 734-7125,PA,Linked In,Opportunity,,2026-07-14,2026-07-20,2026-08-13,20800,Logistics,Yes,No,
+L-0132,Isabella, Brown ,Vertex Solutions, isabella.brown138@mailhub.net ,(205) 743-1795,OH,EMAIL,Qual,Alex Kim,2026-01-27,2026-05-22,2026-06-08,56800,Healthcare,Yes,No,
+L-0133,Henry,Davis,Horizon Bio,henry.davis525@prospect.co,(919) 760-6143,IL,OUTBOUND,Qualified,Jamie Brooks,2026-07-09,2026-07-17,2026-08-02,52200,Professional Services,Yes,No,
+L-0134,Elijah,Jackson,Vertex Solutions,elijah.jackson205@prospect.co,(969) 364-5695,AZ,email campaign,Qual,Jordan Lee,2026-08-06,2026-08-12,2026-08-19,6900,Financial Services,Yes,No,
+L-0135,Lucas,Johnson,Silverline Foods,lucas.johnson258@examplebiz.com,(836) 999-8259,AZ,outbound,closed lost,Jamie Brooks,2026-05-24,2026-08-02,,6900,Professional Services,Yes,No,2026-08-05
+L-0136,Noah,THOMAS,Peakline Systems,noah.thomas960@examplebiz.com,(241) 357-6285,NY,Trade Show,NEW,jamie brooks,2026-03-16,2026-05-20,2026-05-23,29800,Professional Services,No,No,
+L-0137,ELIJAH,Lee,Silverline Foods,elijah.lee544@mailhub.net,(775) 970-1144,IL,WEB,CONTACTED,ALEX KIM,2026-05-20,2026-07-01,2026-07-15,26700,Technology,No,No,
+L-0138,Evelyn,Anderson,Prairie Health,evelyn.anderson995@northmail.com,(842) 267-4453,CO,referral,Opportunity,Taylor Morgan,2026-05-22,2026-07-26,2026-07-31,80700,Logistics,Yes,No,
+L-0139,Isabella,JOHNSON,BrightPath Health,isabella.johnson398@mailhub.net,,CO,WEB,CONTACTED,Morgan Reed,2026-07-25,2026-08-12,2026-08-22,77700,Technology,No,No,
+L-0140,Lucas,Moore,silverline foods,lucas.moore303@examplebiz.com,(506) 893-7113,OH,WEB,New,,2026-06-17,2026-06-25,2026-07-10,68200,Professional Services,No,No,
+L-0141,James,Martin,Blue Ridge Supply,james.martin873@northmail.com,970-762-8557,CA,website,WON,Alex Kim,2026-06-24,2026-07-01,,17500,Manufacturing,Yes,Yes,2026-07-06
+L-0142,Isabella,thompson,Evergreen Services, isabella.thompson805@examplebiz.com ,(930) 957-8145,WA,Tradeshow,closed won,Taylor Morgan,2026-04-25,2026-05-16,,2900,Manufacturing,Yes,Yes,2026-05-20
+L-0143,mia,Williams,NORTHSTAR LABS,mia.williams557@mailhub.net,(870) 993-3435,WA,Tradeshow,closed won,Casey Patel,2026-06-19,2026-08-16,,5500,Healthcare,Yes,Yes,2026-08-17
+L-0144,Ethan,Perez,Blue Ridge Supply,ethan.perez44@examplebiz.com,(731) 569-7358,IL, Website ,Closed-Won,Taylor Morgan,2026-06-14,2026-06-22,,24300,Logistics,Yes,Yes,2026-06-30
+L-0145,mia,Martin,Horizon Bio,mia.martin514@examplebiz.com,(651) 369-4768,FL,webinar,Contact, Jordan Lee ,2026-05-16,2026-07-17,2026-08-04,75700,Professional Services,No,No,
+L-0146,Ethan,taylor,Northstar Labs,ethan.taylor58@examplebiz.com,,CO,website,qualified,Taylor Morgan,2026-07-09,2026-08-10,2026-08-14,76000,Retail,Yes,No,
+L-0147,Henry,Jones,CedarWorks,henry.jones395@examplebiz.com,(312) 216-4315,CA,LinkedIn,Contact,Morgan Reed,2026-04-18,2026-07-03,2026-07-24,8200,Financial Services,No,No,
+L-0148,Henry, Lee ,Northstar Labs,henry.lee809@mailhub.net,(559) 803-2600,GA,Webinar,Closed Won,Morgan Reed,2026-02-15,2026-06-30,,37900,Professional Services,Yes,Yes,2026-07-08
+L-0149,Olivia,Wilson,Vertex Solutions,olivia.wilson627@prospect.co,(897) 606-4337,TX,Website,OPP,Casey Patel,2026-06-09,2026-07-12,2026-08-01,37400,Biotech,Yes,No,
+L-0150,Ethan,Brown,Apex Manufacturing,ethan.brown6@northmail.com,349-682-8133,IL,email campaign,OPP,Jamie Brooks,2026-02-18,2026-08-17,2026-08-21,15800,Professional Services,Yes,No,
+L-0151,AVA,Miller,Evergreen Services,ava.miller369@examplebiz.com,(871) 200-3579,CO,EMAIL,QUALIFIED,Jordan Lee,2026-02-15,2026-04-15,2026-05-07,16500,Retail,Yes,No,
+L-0152,Sophia,Davis,Apex Manufacturing,sophia.davis302@prospect.co,(320) 725-5222,AZ,Trade Show,Contact,alex kim,2026-04-30,2026-07-03,2026-07-09,48600,Logistics,No,No,
+L-0153,Mia,Thomas,Clearview Media,mia.thomas295@northmail.com,(609) 889-6603,IL,referral,CONTACTED, Taylor Morgan ,2026-03-28,2026-03-30,2026-04-24,71200,Retail,No,No,
+L-0154,Olivia,Davis,Pioneer Tech,olivia.davis981@northmail.com,694-580-6167,TX, Website ,new,Alex Kim,2026-02-24,2026-06-30,2026-07-22,3000,Manufacturing,No,No,
+L-0155,Liam,Martin,Pioneer Tech,liam.martin13@examplebiz.com,(589) 794-2650,OH,EMAIL,QUALIFIED,Jordan Lee,2026-07-13,2026-08-15,2026-09-01,28500,Professional Services,Yes,No,
+L-0156,Sophia,Moore,CedarWorks,sophia.moore443@mailhub.net,(401) 349-3450,WA,Linked In,Closed Won,,2026-02-09,2026-04-19,,68800,Manufacturing,Yes,Yes,2026-04-27
+L-0157, Ethan ,Johnson,Apex Manufacturing,ethan.johnson571@prospect.co,(553) 220-7746,NC,Email,New,Alex Kim,2026-02-03,2026-04-29,2026-05-10,32300,Financial Services,No,No,
+L-0158,Lucas,Moore,Blue Ridge Supply,lucas.moore82@examplebiz.com,(552) 433-6136,OH,email campaign,Contacted,jordan lee,2026-03-04,2026-08-07,2026-08-28,35900,Manufacturing,No,No,
+L-0159,mason,Rodriguez, BrightPath Health , mason.rodriguez537@northmail.com ,(307) 468-3544,CA,REFERRAL,new,Morgan Reed,2026-04-13,2026-06-22,2026-06-26,4700,Retail,No,No,
+L-0160,Elijah,Rodriguez,Prairie Health,ethan.perez44@examplebiz.com,556-693-9841,PA,webinar,Qual,Morgan Reed,2026-04-18,2026-07-07,2026-07-30,74900,Manufacturing,Yes,No,
+L-0161,James,Martinez,Clearview Media,james.martinez755@mailhub.net,(588) 425-5308,GA,Referral,contacted,jamie brooks,2026-03-22,2026-07-11,2026-07-26,23100,Healthcare,No,No,
+L-0162,Noah,Moore,Prairie Health,noah.moore191@northmail.com,(489) 475-3048,PA,trade show,New,Jordan Lee,2026-08-08,2026-08-10,2026-08-14,82500,Financial Services,No,No,
+L-0163, Emma ,Johnson,Horizon Bio,emma.johnson998@examplebiz.com,(595) 989-8257,TX,Trade Show,NEW,Jordan Lee,2026-01-09,2026-03-14,2026-03-29,70800,Professional Services,No,No,
+L-0164,evelyn,Brown,Horizon Bio,evelyn.brown333@northmail.com,(372) 482-2960,OH,REFERRAL,Contacted,MORGAN REED,2026-07-30,2026-08-05,2026-08-11,22000,Logistics,No,No,
+L-0165, Emma , Lee ,Summit Analytics,emma.lee751@examplebiz.com,(222) 905-7189,NC,website,Closed Lost,Morgan Reed,2026-01-23,2026-07-07,,64900,Manufacturing,Yes,No,2026-07-14
+L-0166,Harper,Martinez,Horizon Bio,harper.martinez878@prospect.co,(836) 444-6254,NC,Website,Opportunity,Alex Kim,2026-05-07,2026-08-08,2026-08-16,75300,Biotech,Yes,No,
+L-0167,EMMA,Garcia,PEAKLINE SYSTEMS,emma.garcia719@prospect.co,(251) 575-4616,TX,webinar,new,Alex Kim,2026-03-19,2026-06-26,2026-07-20,42900,Retail,No,No,
+L-0168,Liam,Thompson,Horizon Bio,liam.thompson545@mailhub.net,(395) 397-9621,PA,Website,contacted,Taylor Morgan,2026-06-18,2026-07-21,2026-07-27,10900,Healthcare,No,No,
+L-0169,Elijah,Thomas,Redstone Consulting,elijah.thomas866@prospect.co,623-982-8054,GA,Outbound,QUALIFIED,Casey Patel,2026-05-14,2026-06-23,2026-07-13,84300,Manufacturing,Yes,No,
+L-0170,evelyn,Jones,Evergreen Services,evelyn.jones524@examplebiz.com,(297) 238-8542,NY,Cold Outreach,contacted,Alex Kim,2026-05-24,2026-05-26,2026-06-20,70300,Healthcare,No,No,
+L-0171,Luna,Brown,evergreen services,luna.brown427@northmail.com,(989) 432-1187,PA,Email,Contacted,Morgan Reed,2026-01-25,2026-02-08,2026-02-21,31200,Healthcare,No,No,
+L-0172,Lucas,Thomas,Blue Ridge Supply,lucas.thomas514@mailhub.net,(915) 333-3209,IL,Website,Qualified,Morgan Reed,2026-07-31,2026-08-17,2026-09-01,24200,Manufacturing,Yes,No,
+L-0173,james,ANDERSON,,james.anderson842@mailhub.net,(839) 349-8216,IL,REFERRAL,Opportunity,Alex Kim,2026-01-27,2026-04-15,2026-04-23,84000,Retail,Yes,No,
+L-0174,NOAH, Martinez ,Prairie Health,noah.martinez562@mailhub.net,(838) 947-3315,CO,Referral,Opportunity,Casey Patel,2026-06-19,2026-07-02,2026-07-22,45700,Logistics,Yes,No,
+L-0175,Sophia,Anderson,Summit Analytics, ethan.taylor58@examplebiz.com ,(697) 811-9709,NY,EMAIL,OPP,Jordan Lee,2026-06-14,2026-08-01,2026-08-20,83100,Healthcare,Yes,No,
+L-0176,Evelyn,Rodriguez,Peakline Systems,evelyn.rodriguez156@prospect.co,(603) 872-3248,AZ,email campaign,closed won,Taylor Morgan,2026-08-05,2026-08-13,,80800,Financial Services,Yes,Yes,2026-08-16
+L-0177,Luna,Lee,Apex Manufacturing,luna.lee672@examplebiz.com,(526) 269-9732,NY,LINKEDIN,closed lost,Taylor Morgan,2026-07-09,2026-08-05,,84600,Manufacturing,Yes,No,2026-08-11
+L-0178,Noah, Jones ,CedarWorks,noah.jones27@prospect.co,(282) 904-8808,WA,trade show,opportunity,Jamie Brooks,2026-03-09,2026-05-07,2026-05-29,21700,Healthcare,Yes,No,
+L-0179,Olivia,Miller,BrightPath Health, olivia.miller623@mailhub.net ,(938) 520-7457,NC,Email,Qualified,Jordan Lee,2026-05-21,2026-07-18,2026-07-28,37800,Manufacturing,Yes,No,
+L-0180,Evelyn,Johnson,Apex Manufacturing,evelyn.johnson628@northmail.com,907-729-3330,NC, Referal ,contacted,Casey Patel,2026-01-13,2026-03-27,2026-04-13,16200,Financial Services,No,No,
+L-0181,mia,Rodriguez, Redstone Consulting ,mia.rodriguez725@mailhub.net,(945) 723-3619,PA,LINKEDIN,NEW,Alex Kim,2026-02-13,2026-06-08,2026-07-01,32400,Manufacturing,No,No,
+L-0182,Harper,Martinez,CedarWorks,ava.miller369@examplebiz.com,(823) 705-4897,CA,Outbound,NEW,Morgan Reed,2026-01-29,2026-04-03,2026-04-06,40300,Technology,No,No,
+L-0183,Emma,Johnson,Evergreen Services,emma.johnson709@examplebiz.com,(667) 967-6901,TX,WEB,CONTACTED,Jamie Brooks,2026-06-28,2026-07-08,2026-08-01,26000,Biotech,No,No,
+L-0184,Evelyn, Miller ,Apex Manufacturing,evelyn.miller620@prospect.co,(638) 823-6185,TX,Trade Show,Closed Lost,JAMIE BROOKS,2026-03-30,2026-04-21,,42400,Healthcare,Yes,No,2026-04-28
+L-0185,Noah,MILLER, Vertex Solutions ,,(270) 515-5919,CO,REFERRAL,Qual,Jamie Brooks,2026-03-02,2026-04-25,2026-04-28,55400,Professional Services,Yes,No,
+L-0186,Liam,Jones,ATLAS COMMERCE,liam.jones951@northmail.com,(734) 506-6169,OH,Webinar,Closed-Won,,2026-05-19,2026-07-17,,67200,Manufacturing,Yes,Yes,2026-07-18
+L-0187,ETHAN,Thompson,Summit Analytics,ethan.thompson381@mailhub.net,(510) 421-9603,PA,EMAIL,opportunity,taylor morgan,2026-06-04,2026-07-26,2026-07-31,43500,Financial Services,Yes,No,
+L-0188, Noah , Martin ,Blue Ridge Supply,noah.martin704@northmail.com,,PA,Website,CONTACTED,jordan lee,2026-04-01,2026-04-30,2026-05-03,28200,Retail,No,No,
+L-0189,sophia,Brown,Northstar Labs,,(273) 518-6549,FL,TRADE SHOW,QUALIFIED,,2026-06-04,2026-06-22,2026-07-17,68800,Technology,Yes,No,
+L-0190,Lucas,Wilson,Apex Manufacturing,lucas.wilson701@mailhub.net,682-437-4666,NC,Trade Show,new,Casey Patel,2026-01-19,2026-07-16,2026-08-02,10500,Technology,No,No,
+L-0191,Ethan,Martinez,Pioneer Tech,ethan.martinez73@prospect.co,(746) 672-7566,GA,website,closed won,Jamie Brooks,2026-01-21,2026-02-17,,29400,Manufacturing,Yes,Yes,2026-02-20
+L-0192,Mia,Perez,Atlas Commerce,mia.perez72@northmail.com,(902) 810-7208,WA,trade show,Contact,Morgan Reed,2026-07-19,2026-08-14,2026-08-31,17000,Technology,No,No,
+L-0193,harper,Miller,APEX MANUFACTURING,olivia.davis981@northmail.com,(827) 722-7622,NY,trade show,Closed-Lost,Casey Patel,2026-05-27,2026-07-21,,61700,Biotech,Yes,No,2026-07-26
+L-0194,James,Lee,Apex Manufacturing,james.lee129@examplebiz.com,(212) 273-1257,NC,website,Qual,Jamie Brooks,2026-01-09,2026-04-11,2026-04-27,15200,Manufacturing,Yes,No,
+L-0195,Elijah,Moore,Silverline Foods,elijah.moore421@prospect.co,235-238-8917,FL,Website,Opportunity,Casey Patel,2026-03-18,2026-07-23,2026-08-02,61300,Biotech,Yes,No,
+L-0196,Mia, Lee ,, mia.lee432@prospect.co ,(502) 496-3744,IL,WEBINAR,NEW,CASEY PATEL,2026-04-18,2026-06-22,2026-07-10,49900,Healthcare,No,No,
+L-0197,Benjamin,williams,blue ridge supply,benjamin.williams179@examplebiz.com,(875) 657-7058,NY, Referal ,opportunity,Alex Kim,2026-06-03,2026-07-05,2026-07-08,63700,Technology,Yes,No,
+L-0198,Mason,Moore,CedarWorks,mason.moore409@mailhub.net,(509) 687-9724,WA,LinkedIn,Contacted,Morgan Reed,2026-03-01,2026-05-07,2026-05-13,6800,Retail,No,No,
+L-0199,LOGAN,taylor,horizon bio,mia.jones426@northmail.com,,NY,REFERRAL,new, Jamie Brooks ,2026-02-26,2026-07-25,2026-08-09,40500,Biotech,No,No,
+L-0200,Ava,Thompson,BrightPath Health,ava.thompson89@examplebiz.com,(585) 872-4027,WA,LinkedIn,WON,Jordan Lee,2026-03-12,2026-04-12,,60900,Healthcare,Yes,Yes,2026-04-16
+L-0201,Amelia,THOMAS,REDSTONE CONSULTING,amelia.thomas625@mailhub.net,(383) 860-9061,NY,Outbound,Contact,taylor morgan,2026-04-22,2026-04-30,2026-05-18,83300,Healthcare,No,No,
+L-0202,Ava,Johnson,SILVERLINE FOODS,ava.johnson490@mailhub.net,(614) 945-2148,CA,LINKEDIN,LOST,,2026-03-18,2026-03-18,,45000,Financial Services,Yes,No,2026-03-23
+L-0203,Mia,MOORE,Evergreen Services,emma.johnson998@examplebiz.com,(846) 905-6886,CA,TRADE SHOW,Closed Lost,MORGAN REED,2026-02-24,2026-04-13,,27200,Retail,Yes,No,2026-04-16
+L-0204,LIAM,Wilson,Peakline Systems,liam.wilson153@examplebiz.com,(274) 237-3319,TX,website,OPP,,2026-04-01,2026-07-27,2026-08-20,74300,Professional Services,Yes,No,
+L-0205,mia,brown,Summit Analytics,mia.brown695@mailhub.net,(533) 323-9943,WA,Email,contacted,Jamie Brooks,2026-01-19,2026-03-11,2026-03-27,30300,Logistics,No,No,
+L-0206,Liam,JONES, Summit Analytics ,liam.jones668@prospect.co,(627) 910-8798,CA,WEB,QUALIFIED,Jamie Brooks,2026-08-11,2026-08-11,2026-08-19,78900,Professional Services,Yes,No,
+L-0207,Elijah,DAVIS,Apex Manufacturing,elijah.davis676@examplebiz.com,(484) 254-4173,GA,Cold Outreach,Opportunity,jamie brooks,2026-01-30,2026-06-17,2026-07-06,20600,Technology,Yes,No,
+L-0208,Liam,Lee,CedarWorks,liam.lee204@prospect.co,(436) 997-2804,CO,webinar,New,Morgan Reed,2026-06-13,2026-08-08,2026-08-29,50300,Manufacturing,No,No,
+L-0209,Emma,Moore,Apex Manufacturing,emma.moore873@mailhub.net,(670) 628-3804,NY, Website ,New,Jordan Lee,2026-02-16,2026-07-11,2026-07-15,25600,Biotech,No,No,
+L-0210,Harper,Rodriguez,Northstar Labs,harper.rodriguez969@examplebiz.com,(788) 205-7844,PA,Email Campaign,Contact,,2026-04-23,2026-07-06,2026-07-16,76100,Professional Services,No,No,
+L-0211,Olivia,JONES,Pioneer Tech,olivia.jones766@northmail.com,666-674-3271,FL,Linked In,new,Alex Kim,2026-04-12,2026-06-29,2026-07-07,60500,Financial Services,No,No,
+L-0212,Henry,Lee,apex manufacturing,henry.lee114@mailhub.net,(575) 676-1669,WA,email campaign,OPP,Jordan Lee,2026-07-29,2026-08-14,2026-09-07,32500,Technology,Yes,No,
+L-0213,Isabella,anderson,Horizon Bio,isabella.anderson482@prospect.co,(663) 835-7031,NY,Website,contacted,Jordan Lee,2026-04-19,2026-06-20,2026-07-09,46000,Professional Services,No,No,
+L-0214,Emma,Jackson,Blue Ridge Supply,emma.jackson356@mailhub.net,(655) 955-1351,GA,Cold Outreach,new,Morgan Reed,2026-04-28,2026-07-24,2026-08-13,79400,Retail,No,No,
+L-0215,emma,Martinez,CedarWorks,emma.martinez467@examplebiz.com,(834) 364-9770,FL,Webinar,Closed Lost,Casey Patel,2026-01-27,2026-02-08,,14700,Financial Services,Yes,No,2026-02-11
+L-0216,Logan,Jones,Pioneer Tech,logan.jones971@mailhub.net,(528) 359-1070,GA,Cold Outreach,QUALIFIED,Taylor Morgan,2026-07-12,2026-07-13,2026-07-28,79300,Logistics,Yes,No,
+L-0217,Benjamin,Johnson,Blue Ridge Supply,benjamin.johnson623@examplebiz.com,(798) 739-4639,NY,Website,OPP,Jordan Lee,2026-06-17,2026-07-15,2026-07-29,10100,Technology,Yes,No,
+L-0218,Emma,taylor, Pioneer Tech ,emma.taylor910@mailhub.net,(960) 625-8249,IL,WEB,Contacted,Jamie Brooks,2026-05-26,2026-07-22,2026-08-11,9700,Professional Services,No,No,
+L-0219,LUNA,THOMAS,,luna.thomas205@examplebiz.com,(591) 496-9037,AZ,Linked In,Contacted,Taylor Morgan,2026-06-29,2026-08-03,2026-08-20,61100,Healthcare,No,No,
+L-0220,Lucas,Taylor, CedarWorks , lucas.taylor614@prospect.co ,(796) 692-8144,PA,linkedin,new, Jordan Lee ,2026-01-29,2026-04-09,2026-04-27,84500,Logistics,No,No,
+L-0221,Sophia,anderson,Vertex Solutions,sophia.anderson784@northmail.com,814-970-3738,CO,REFERRAL,QUALIFIED,Taylor Morgan,2026-07-24,2026-08-09,2026-08-18,65700,Biotech,Yes,No,
+L-0222,James,Wilson,CedarWorks,,(628) 671-2251,FL,website,CONTACTED,ALEX KIM,2026-06-25,2026-08-14,2026-09-03,53100,Technology,No,No,
+L-0223,Noah,DAVIS,,noah.davis80@northmail.com,(696) 975-8065,PA,Website,NEW, Jordan Lee ,2026-07-10,2026-07-15,2026-07-31,59500,Manufacturing,No,No,
+L-0224,Olivia,Garcia,Pioneer Tech,,(718) 783-2119,TX,website,OPP,Alex Kim,2026-06-02,2026-08-15,2026-08-29,31600,Healthcare,Yes,No,
+L-0225,benjamin,Anderson,CedarWorks,benjamin.anderson418@northmail.com,(980) 521-3025,OH,Cold Outreach,New,Taylor Morgan,2026-05-14,2026-07-01,2026-07-17,20200,Logistics,No,No,
+L-0226,Lucas,Taylor,Apex Manufacturing,lucas.taylor536@northmail.com,(323) 346-7468,NC,Cold Outreach,Contact,Morgan Reed,2026-08-09,2026-08-16,2026-09-09,11200,Technology,No,No,
+L-0227,LUNA, Perez ,Horizon Bio,,(457) 701-9147,IL,webinar,OPP,Morgan Reed,2026-05-01,2026-07-02,2026-07-21,25500,Professional Services,Yes,No,
+L-0228,Mia,Martin,Atlas Commerce,mia.thompson668@examplebiz.com,(983) 232-8051,FL,referral,QUALIFIED,Alex Kim,2026-04-05,2026-06-10,2026-06-30,30800,Logistics,Yes,No,
+L-0229,Benjamin,Brown,,benjamin.brown632@prospect.co,(985) 491-6250,NC,trade show,new,Morgan Reed,2026-07-29,2026-08-10,2026-08-21,43300,Logistics,No,No,
+L-0230,Mason,Davis,Clearview Media,mason.davis334@northmail.com,(672) 873-7921,WA,website,opportunity,Alex Kim,2026-05-26,2026-06-09,2026-06-22,16500,Financial Services,Yes,No,
+L-0231,Isabella,Garcia,Evergreen Services,isabella.garcia49@prospect.co,788-611-4700,AZ,WEB,OPP,Casey Patel,2026-01-23,2026-02-11,2026-03-03,20200,Biotech,Yes,No,
+L-0232,James,Lee,Redstone Consulting,james.lee643@examplebiz.com,791-711-4489,AZ,referral,opportunity,Jordan Lee,2026-04-18,2026-07-12,2026-08-01,17400,Retail,Yes,No,
+L-0233,Mason,Jones,Evergreen Services,mason.jones274@prospect.co,862-364-5201,AZ,referral,WON,morgan reed,2026-07-27,2026-08-16,,19300,Professional Services,Yes,Yes,2026-08-17
+L-0234,sophia,Rodriguez,CedarWorks,sophia.rodriguez923@mailhub.net,(573) 887-2479,PA,webinar,New,Jordan Lee,2026-07-22,2026-08-01,2026-08-23,27100,Healthcare,No,No,
+L-0235,Noah,Wilson,Redstone Consulting,noah.wilson994@prospect.co,(651) 618-5166,PA,LINKEDIN,LOST,,2026-06-18,2026-06-27,,11300,Professional Services,Yes,No,2026-07-04
+L-0236,Ava,Thompson, Peakline Systems ,ava.thompson372@northmail.com,(748) 442-8248,PA,OUTBOUND,OPP,Jamie Brooks,2026-06-09,2026-07-28,2026-08-09,55200,Healthcare,Yes,No,
+L-0237,Liam, Rodriguez ,,liam.rodriguez845@examplebiz.com,(916) 467-9295,NC,LinkedIn,Closed-Lost, Jordan Lee ,2026-05-19,2026-07-12,,74800,Logistics,Yes,No,2026-07-12
+L-0238, Lucas ,Wilson,BrightPath Health,lucas.wilson421@prospect.co,(663) 689-3187,CA,Referral,OPP,Jamie Brooks,2026-01-28,2026-07-13,2026-07-20,72400,Technology,Yes,No,
+L-0239,Mason, Williams ,,mason.williams92@prospect.co,(375) 780-2922,NY,LINKEDIN,new,Taylor Morgan,2026-05-02,2026-07-20,2026-08-05,52000,Retail,No,No,
+L-0240,amelia,Jones,Vertex Solutions,amelia.jones419@examplebiz.com,(230) 497-5289,WA, Website ,WON,TAYLOR MORGAN,2026-02-07,2026-07-30,,18100,Retail,Yes,Yes,2026-08-06
+L-0241,Elijah,Johnson,Peakline Systems,elijah.johnson6@prospect.co,(717) 834-7241,FL,webinar,Contact,jordan lee,2026-03-10,2026-08-10,2026-09-04,64200,Biotech,No,No,
+L-0242,Noah,Wilson,Peakline Systems, noah.wilson925@prospect.co ,(828) 979-5321,NC,email campaign,closed won,CASEY PATEL,2026-02-02,2026-05-05,,78900,Manufacturing,Yes,Yes,2026-05-13
+L-0243,Sophia,Garcia,Prairie Health,sophia.garcia575@mailhub.net,(669) 704-2843,TX,Outbound,closed lost,Jamie Brooks,2026-08-02,2026-08-16,,31900,Professional Services,Yes,No,2026-08-17
+L-0244,Mia,DAVIS,Atlas Commerce,mia.davis858@prospect.co,(358) 229-2328,IL,website,Opportunity,Jordan Lee,2026-02-19,2026-03-22,2026-04-06,33300,Technology,Yes,No,
+L-0245,Lucas,Wilson,Peakline Systems,lucas.wilson92@northmail.com,(414) 366-7365,GA,Outbound,CONTACTED,Morgan Reed,2026-05-02,2026-06-03,2026-06-11,22300,Technology,No,No,
+L-0246,Benjamin,Moore,Silverline Foods,benjamin.moore646@mailhub.net,(296) 241-9410,NY,TRADE SHOW,QUALIFIED,morgan reed,2026-01-31,2026-05-19,2026-06-02,53100,Logistics,Yes,No,
+L-0247,Emma,Martinez,CLEARVIEW MEDIA,emma.martinez97@mailhub.net,,NY,trade show,Qual,Morgan Reed,2026-08-01,2026-08-17,2026-08-23,44600,Professional Services,Yes,No,
+L-0248,Harper,Thompson,Horizon Bio,harper.thompson19@northmail.com,(605) 319-1217,CA, Website ,new,alex kim,2026-03-11,2026-05-16,2026-06-09,11300,Biotech,No,No,
+L-0249,Emma,Smith,Apex Manufacturing, emma.smith248@mailhub.net ,(842) 751-4127,CO,linkedin,New,Jamie Brooks,2026-08-06,2026-08-09,2026-08-27,56000,Technology,No,No,
+L-0250,Amelia,Johnson,Redstone Consulting,amelia.johnson749@prospect.co,238-699-7548,TX,Linked In,opportunity,alex kim,2026-04-28,2026-08-14,2026-09-01,63300,Healthcare,Yes,No,
+L-0251,Henry,Anderson,Prairie Health,henry.anderson602@prospect.co,(817) 932-8675,CO,WEB,OPP,Taylor Morgan,2026-04-14,2026-05-28,2026-06-14,21600,Professional Services,Yes,No,
+L-0252,benjamin,Jones,CedarWorks,benjamin.jones49@northmail.com,(568) 467-6849,CA,trade show,New,Alex Kim,2026-04-28,2026-06-30,2026-07-12,21900,Retail,No,No,
+L-0253,Elijah,Rodriguez,Blue Ridge Supply,elijah.rodriguez999@northmail.com,(826) 824-2669,PA,website,LOST,,2026-01-20,2026-05-17,,81900,Technology,Yes,No,2026-05-19
+L-0254,Isabella,Jones,Summit Analytics,isabella.jones350@prospect.co,(718) 375-2396,NC,Cold Outreach,WON,Morgan Reed,2026-08-11,2026-08-12,,71400,Retail,Yes,Yes,2026-08-17
+L-0255,Harper,Jones,Northstar Labs,harper.jones677@examplebiz.com,(789) 259-9516,TX,referral,Contact,Jordan Lee,2026-01-27,2026-03-10,2026-03-26,7600,Technology,No,No,
+L-0256,Olivia,Lee,Prairie Health,amelia.johnson749@prospect.co,(733) 753-5651,OH,Referral,NEW,MORGAN REED,2026-05-27,2026-06-06,2026-06-10,46800,Biotech,No,No,
+L-0257,Logan,Rodriguez,Pioneer Tech,logan.rodriguez465@prospect.co,(442) 963-9737,CO,LINKEDIN,Closed-Lost,jordan lee,2026-04-20,2026-05-28,,49700,Technology,Yes,No,2026-05-30
+L-0258, James ,Taylor,BrightPath Health,james.taylor413@mailhub.net,(471) 798-9172,CO,WEBINAR,NEW,alex kim,2026-06-19,2026-07-17,2026-07-22,33000,Technology,No,No,
+L-0259,Olivia,MOORE,Atlas Commerce,olivia.moore297@northmail.com,(736) 356-2929,PA, Website ,Qualified,alex kim,2026-07-13,2026-08-08,2026-08-14,12500,Healthcare,Yes,No,
+L-0260,Logan,Williams,Peakline Systems,logan.williams136@examplebiz.com,717-851-8551,NC,TRADE SHOW,QUALIFIED,Alex Kim,2026-05-18,2026-07-05,2026-07-23,71300,Professional Services,Yes,No,
+L-0261,Ethan,Smith,Evergreen Services,ethan.smith535@examplebiz.com,(969) 687-9235,OH,trade show,new,Alex Kim,2026-03-07,2026-07-23,2026-08-13,65000,Technology,No,No,
+L-0262, Benjamin ,Smith,Redstone Consulting, benjamin.smith102@examplebiz.com ,(493) 347-3992,CA,REFERRAL,WON,Jordan Lee,2026-05-23,2026-07-10,,23700,Professional Services,Yes,Yes,2026-07-15
+L-0263,Noah,johnson,,noah.johnson63@prospect.co,(676) 766-7669,WA,Tradeshow,QUALIFIED,,2026-02-01,2026-06-10,2026-06-25,80800,Retail,Yes,No,
+L-0264,Luna,Taylor,,luna.taylor801@examplebiz.com,(751) 633-8401,OH,webinar,WON,Taylor Morgan,2026-07-07,2026-07-30,,47100,Technology,Yes,Yes,2026-07-30
+L-0265,Olivia,Perez,Evergreen Services,olivia.perez743@prospect.co,(643) 415-9270,CA,LINKEDIN,Qualified,Taylor Morgan,2026-05-28,2026-06-08,2026-06-23,60100,Healthcare,Yes,No,
+L-0266,Emma,Smith,ATLAS COMMERCE,emma.smith84@northmail.com,(752) 231-8293,CO,Linked In,Contacted,Alex Kim,2026-02-15,2026-08-14,2026-09-01,65400,Healthcare,No,No,
+L-0267,Ava,Rodriguez,Pioneer Tech,ava.rodriguez991@prospect.co,(238) 487-9074,TX,email campaign,Opportunity,Morgan Reed,2026-01-18,2026-07-20,2026-07-30,21800,Retail,Yes,No,
+L-0268,Mia,Jones,HORIZON BIO,mia.jones259@mailhub.net,203-637-1849,GA,Linked In,Contact,Alex Kim,2026-02-20,2026-02-25,2026-03-22,58400,Retail,No,No,
+L-0269,Amelia,Miller,Redstone Consulting,amelia.miller940@examplebiz.com,(402) 368-6394,WA,EMAIL,closed lost,Jordan Lee,2026-06-16,2026-08-17,,59400,Technology,Yes,No,2026-08-17
+L-0270,Henry,thompson,Prairie Health,henry.thompson67@examplebiz.com,(264) 652-1897,OH,WEBINAR,NEW,JAMIE BROOKS,2026-07-28,2026-07-29,2026-08-13,28300,Technology,No,No,
+L-0271,Amelia,Moore, Vertex Solutions ,amelia.moore111@northmail.com,213-809-2106,IL,linkedin,opportunity,Taylor Morgan,2026-08-06,2026-08-13,2026-09-01,29600,Technology,Yes,No,
+L-0272, Evelyn ,ANDERSON, Evergreen Services ,evelyn.anderson695@examplebiz.com,(259) 443-9308,CA,webinar,OPP,Jamie Brooks,2026-05-30,2026-07-16,2026-07-19,45200,Manufacturing,Yes,No,
+L-0273, Luna , Perez ,Redstone Consulting,luna.perez655@examplebiz.com,910-435-8643,AZ,Referral,NEW,jordan lee,2026-01-22,2026-02-01,2026-02-19,20600,Financial Services,No,No,
+L-0274,Lucas,Moore,Apex Manufacturing,lucas.moore179@prospect.co,(768) 451-3925,CO,OUTBOUND,new,Jamie Brooks,2026-06-01,2026-06-23,2026-07-03,75500,Biotech,No,No,
+L-0275,Evelyn,THOMPSON,Vertex Solutions,evelyn.thompson712@prospect.co,(526) 813-8037,TX, Website ,closed lost,Morgan Reed,2026-01-21,2026-03-10,,18300,Technology,Yes,No,2026-03-12
+L-0276, Benjamin ,Thompson,BrightPath Health,benjamin.thompson476@examplebiz.com,(530) 929-7125,GA, Referal ,Closed-Won,Alex Kim,2026-02-01,2026-06-11,,33400,Manufacturing,Yes,Yes,2026-06-11
+L-0277,LOGAN,Rodriguez,BrightPath Health,logan.rodriguez437@mailhub.net,,TX,Referral,QUALIFIED,Casey Patel,2026-06-15,2026-06-20,2026-07-07,44800,Manufacturing,Yes,No,
+L-0278,Noah,Brown,BrightPath Health,,,CO,Trade Show,Contact,Jamie Brooks,2026-02-21,2026-05-16,2026-05-27,27500,Biotech,No,No,
+L-0279,Emma,THOMAS,Clearview Media,emma.thomas321@examplebiz.com,(640) 988-7843,PA,Linked In,Qual,Jordan Lee,2026-04-02,2026-07-30,2026-08-16,30600,Retail,Yes,No,
+L-0280,amelia,lee,,amelia.lee582@mailhub.net,591-409-7400,WA, Website ,Closed Won, Casey Patel ,2026-07-08,2026-07-17,,83100,Biotech,Yes,Yes,2026-07-21
+L-0281,Mia,Thomas,Evergreen Services,mia.thomas335@mailhub.net,(601) 360-2814,FL,REFERRAL,qualified,Taylor Morgan,2026-04-18,2026-04-25,2026-05-09,45300,Retail,Yes,No,
+L-0282,Harper,Rodriguez,Apex Manufacturing,harper.rodriguez901@mailhub.net,(672) 673-1640,CA,WEBINAR,Closed-Won,Alex Kim,2026-03-11,2026-05-13,,45900,Healthcare,Yes,Yes,2026-05-17
+L-0283,Ethan,Perez,Summit Analytics,ethan.perez939@northmail.com,(915) 943-4559,PA,Outbound,Contact,JAMIE BROOKS,2026-07-03,2026-07-20,2026-08-12,46900,Professional Services,No,No,
+L-0284,Harper,Thomas, Redstone Consulting ,harper.thomas497@mailhub.net,(270) 284-9985,FL,referral,New,Morgan Reed,2026-07-14,2026-07-22,2026-08-04,57800,Professional Services,No,No,
+L-0285,Ava, Rodriguez ,BLUE RIDGE SUPPLY, ava.rodriguez857@northmail.com ,600-906-6051,IL,website,OPP,Jordan Lee,2026-02-21,2026-07-07,2026-07-16,39000,Logistics,Yes,No,
+L-0286,Mason,BROWN,CedarWorks,mason.brown213@mailhub.net,(639) 323-4807,CO,Referral,New,Alex Kim,2026-05-21,2026-07-01,2026-07-21,54200,Manufacturing,No,No,
+L-0287,Henry,Jackson,Summit Analytics,henry.jackson137@prospect.co,,NY,Outbound,Qualified,Jamie Brooks,2026-03-04,2026-06-11,2026-07-05,78800,Manufacturing,Yes,No,
+L-0288,James,DAVIS,BrightPath Health,james.davis946@mailhub.net,(957) 536-3199,CA,Referral,contacted,Taylor Morgan,2026-07-05,2026-07-29,2026-08-07,55500,Healthcare,No,No,
+L-0289,Mason,Thompson,Silverline Foods,mason.thompson961@examplebiz.com,(329) 293-3845,CA,webinar,NEW,Taylor Morgan,2026-04-09,2026-04-26,2026-05-05,6800,Biotech,No,No,
+L-0290, Olivia ,Rodriguez,Atlas Commerce,olivia.rodriguez779@examplebiz.com,(694) 220-7249,IL, Referal ,New,Morgan Reed,2026-04-22,2026-06-15,2026-07-04,52800,Technology,No,No,
+L-0291,Benjamin,Miller, Blue Ridge Supply ,benjamin.miller963@mailhub.net,(961) 582-7292,CO,WEB,Qual,Morgan Reed,2026-02-08,2026-05-14,2026-06-01,35900,Retail,Yes,No,
+L-0292,logan,johnson,Silverline Foods,logan.johnson715@examplebiz.com,(468) 819-8462,PA,Referral,qualified,Jordan Lee,2026-01-16,2026-04-18,2026-05-11,60800,Professional Services,Yes,No,
+L-0293,Ethan,TAYLOR,HORIZON BIO,emma.garcia987@mailhub.net,(312) 851-6642,GA,OUTBOUND,OPP,Jamie Brooks,2026-05-07,2026-07-21,2026-08-02,63000,Financial Services,Yes,No,
+L-0294, Ethan ,Anderson,CedarWorks,ethan.anderson206@northmail.com,(968) 387-4143,FL,WEBINAR,qualified,Taylor Morgan,2026-07-15,2026-08-12,2026-09-02,69700,Manufacturing,Yes,No,
+L-0295,Noah,Smith,PEAKLINE SYSTEMS,noah.smith385@prospect.co,(698) 684-6521,CO,LinkedIn,Closed Won,Jordan Lee,2026-08-02,2026-08-05,,19900,Financial Services,Yes,Yes,2026-08-10
+L-0296,Amelia,Jones,,amelia.jones675@mailhub.net,(728) 623-4079,GA, Referal ,opportunity,Jamie Brooks,2026-01-16,2026-03-20,2026-04-03,39800,Technology,Yes,No,
+L-0297, Mia ,Anderson,, mia.anderson730@examplebiz.com ,(733) 785-9267,OH,email campaign,closed lost, Taylor Morgan ,2026-02-06,2026-05-15,,26700,Logistics,Yes,No,2026-05-22
+L-0298,Mia,Brown,VERTEX SOLUTIONS,mia.brown682@mailhub.net,(887) 326-3224,CA,Cold Outreach,Contact,Casey Patel,2026-05-06,2026-08-12,2026-08-23,20700,Healthcare,No,No,
+L-0299,Mason,Rodriguez,summit analytics,mason.rodriguez874@prospect.co,(590) 790-1027,TX,Website,Contact,TAYLOR MORGAN,2026-03-14,2026-05-01,2026-05-07,49800,Financial Services,No,No,
+L-0300,Harper,WILSON,Blue Ridge Supply,harper.wilson36@prospect.co,(517) 714-3022,FL,WEBINAR,qualified,Jamie Brooks,2026-03-12,2026-05-23,2026-05-30,64100,Financial Services,Yes,No,
+L-0301,Liam,garcia,Atlas Commerce,liam.garcia695@mailhub.net,(557) 975-7412,NY,OUTBOUND,opportunity,Morgan Reed,2026-07-03,2026-07-04,2026-07-24,34900,Professional Services,Yes,No,
+L-0302, Luna ,JONES,Prairie Health,luna.jones371@northmail.com,(895) 351-7169,NY,email campaign,Contact,Jordan Lee,2026-01-19,2026-07-29,2026-08-07,63200,Logistics,No,No,
+L-0303,Noah,Davis,Silverline Foods,noah.davis675@northmail.com,(675) 865-7260,NY,LinkedIn,closed lost,Jamie Brooks,2026-02-26,2026-06-02,,66500,Logistics,Yes,No,2026-06-10
+L-0304,James,Martinez, Blue Ridge Supply ,james.martinez21@mailhub.net,(770) 749-9684,IL, Website ,LOST,jamie brooks,2026-01-21,2026-06-07,,17800,Technology,Yes,No,2026-06-10
+L-0305,Emma,Perez,Apex Manufacturing,emma.perez306@prospect.co,(758) 375-7931,TX,trade show,closed won,Alex Kim,2026-08-04,2026-08-05,,83300,Manufacturing,Yes,Yes,2026-08-09
+L-0306,Liam,Davis,peakline systems,liam.davis368@prospect.co,(332) 946-7914,CA,REFERRAL,closed won,Alex Kim,2026-07-09,2026-08-16,,48000,Retail,Yes,Yes,2026-08-17
+L-0307,Luna,Martin,CEDARWORKS,luna.martin80@prospect.co,(328) 744-2802,CA, Referal ,Closed Won,Taylor Morgan,2026-05-07,2026-05-10,,82000,Professional Services,Yes,Yes,2026-05-12
+L-0308,Noah,garcia,EVERGREEN SERVICES,noah.garcia175@prospect.co,(970) 598-3960,TX,Webinar,Opportunity,Jordan Lee,2026-06-01,2026-08-10,2026-08-21,52600,Logistics,Yes,No,
+L-0309,SOPHIA,Johnson,Pioneer Tech,sophia.johnson294@prospect.co,639-733-4748,OH,trade show,OPP,Alex Kim,2026-06-27,2026-07-25,2026-08-08,68400,Retail,Yes,No,
+L-0310,Ava,TAYLOR,Blue Ridge Supply,ava.taylor195@northmail.com,(932) 635-9754,NC,WEBINAR,closed lost, Alex Kim ,2026-03-29,2026-04-29,,36000,Logistics,Yes,No,2026-05-07
+L-0311,Logan,Jones,Pioneer Tech, logan.jones872@northmail.com ,(498) 506-8915,AZ,WEBINAR,new,ALEX KIM,2026-07-15,2026-08-05,2026-08-29,23100,Healthcare,No,No,
+L-0312,Ava,Thompson,Prairie Health,ava.thompson442@mailhub.net,(403) 286-9668,NY,REFERRAL,New,Jordan Lee,2026-02-09,2026-03-28,2026-04-12,31700,Biotech,No,No,
+L-0313,Harper,Garcia,Blue Ridge Supply,harper.garcia137@mailhub.net,(632) 961-6426,PA,webinar,Contact,jordan lee,2026-02-12,2026-04-03,2026-04-09,18100,Biotech,No,No,
+L-0314,Noah,Smith,Blue Ridge Supply,noah.smith440@northmail.com,(645) 691-5742,IL,Webinar,Closed-Won,Casey Patel,2026-06-13,2026-06-19,,58500,Manufacturing,Yes,Yes,2026-06-23
+L-0315,Noah,Martin,CedarWorks,noah.martin952@examplebiz.com,(637) 218-4270,WA,trade show,new,,2026-07-13,2026-07-21,2026-08-05,5700,Retail,No,No,
+L-0316,Sophia,Anderson,vertex solutions,sophia.anderson293@mailhub.net,(487) 821-2650,IL,EMAIL,New,Taylor Morgan,2026-08-12,2026-08-12,2026-09-05,63900,Retail,No,No,
+L-0317, Olivia ,Perez,SILVERLINE FOODS,olivia.perez838@examplebiz.com,(398) 921-8303,TX,WEB,OPP,Jamie Brooks,2026-07-13,2026-07-15,2026-08-05,82400,Technology,Yes,No,
+L-0318,Logan, Moore ,Summit Analytics,logan.moore991@examplebiz.com,(497) 246-1996,TX,webinar,QUALIFIED, Jamie Brooks ,2026-04-06,2026-04-11,2026-04-19,51900,Professional Services,Yes,No,
+L-0319,ava,Garcia,APEX MANUFACTURING,ava.garcia726@prospect.co,(766) 321-3803,GA,Webinar,OPP,casey patel,2026-03-31,2026-06-05,2026-06-17,72800,Healthcare,Yes,No,
+L-0320,Logan,Thompson,Pioneer Tech,logan.thompson302@prospect.co,(259) 840-1170,TX,outbound,Closed-Won,Alex Kim,2026-06-06,2026-06-23,,36200,Biotech,Yes,Yes,2026-06-24
+L-0321,Sophia, Miller ,silverline foods,sophia.miller471@examplebiz.com,(381) 393-9036,NC, Website ,Opportunity,Taylor Morgan,2026-05-10,2026-05-28,2026-06-15,10200,Manufacturing,Yes,No,
+L-0322, Emma ,Smith,Summit Analytics,emma.smith255@northmail.com,(475) 346-1221,AZ,WEB,Closed-Won,,2026-01-29,2026-07-12,,79600,Professional Services,Yes,Yes,2026-07-13
+L-0323,Emma,Davis,,emma.davis908@mailhub.net,(346) 201-4675,OH,Tradeshow,New,Alex Kim,2026-08-01,2026-08-04,2026-08-24,27000,Financial Services,No,No,
+L-0324,Lucas,Anderson,BrightPath Health,lucas.anderson439@prospect.co,815-385-7967,TX,Referral,closed lost,Taylor Morgan,2026-07-22,2026-07-23,,52400,Biotech,Yes,No,2026-07-30
+L-0325,Emma,Wilson,blue ridge supply,emma.wilson983@prospect.co,(349) 292-6292,NC,Linked In,Closed-Won,Morgan Reed,2026-04-12,2026-04-29,,11800,Professional Services,Yes,Yes,2026-05-05
+L-0326,Elijah,Lee,atlas commerce,elijah.lee3@examplebiz.com,(218) 571-8764,AZ, Website ,Opportunity, Casey Patel ,2026-03-31,2026-05-26,2026-06-20,9700,Retail,Yes,No,
+L-0327,mason, Johnson ,,mason.johnson109@northmail.com,(689) 808-3591,PA,LINKEDIN,Contact,Jamie Brooks,2026-08-06,2026-08-17,2026-09-02,33200,Technology,No,No,
+L-0328,Isabella,moore,Northstar Labs,isabella.moore165@northmail.com,(606) 633-8443,TX, Website ,Closed Won, Alex Kim ,2026-08-04,2026-08-13,,64500,Financial Services,Yes,Yes,2026-08-15
+L-0329,ethan, Lee ,BRIGHTPATH HEALTH,ethan.lee663@mailhub.net,(400) 476-2776,NC,referral,OPP,Casey Patel,2026-01-13,2026-04-20,2026-04-28,7000,Logistics,Yes,No,
+L-0330,Mason,Rodriguez,BrightPath Health,mason.rodriguez366@prospect.co,608-712-4192,WA,Cold Outreach,Qual,Jordan Lee,2026-07-31,2026-08-10,2026-08-15,80300,Healthcare,Yes,No,
+L-0331,Liam,Martinez,CedarWorks,liam.martinez827@examplebiz.com,(988) 935-3638,OH,WEBINAR,Closed-Won,Taylor Morgan,2026-07-20,2026-08-11,,21600,Manufacturing,Yes,Yes,2026-08-17
+L-0332, Henry ,Thompson,BrightPath Health,henry.thompson561@northmail.com,(711) 296-8451,WA,TRADE SHOW,qualified,Casey Patel,2026-01-18,2026-01-21,2026-01-28,65700,Manufacturing,Yes,No,
+L-0333,Luna,Jackson,peakline systems, luna.jackson866@prospect.co ,(583) 285-7769,NY, Referal ,Closed Won,Alex Kim,2026-02-19,2026-03-24,,38900,Biotech,Yes,Yes,2026-03-27
+L-0334,Harper,WILLIAMS,pioneer tech,harper.williams111@mailhub.net,(987) 643-4268,NC,LINKEDIN,Closed Lost,Jamie Brooks,2026-04-15,2026-04-28,,9600,Logistics,Yes,No,2026-04-29
+L-0335,Amelia,Johnson,pioneer tech,amelia.johnson181@northmail.com,(346) 270-5487,NC,WEB,contacted, Jamie Brooks ,2026-08-07,2026-08-17,2026-09-02,24800,Professional Services,No,No,
+L-0336,James,Jackson,Atlas Commerce,james.jackson802@examplebiz.com,(280) 940-3369,PA,WEBINAR,Closed-Lost,Alex Kim,2026-03-19,2026-06-26,,70400,Manufacturing,Yes,No,2026-06-28
+L-0337,AVA,Moore,Blue Ridge Supply,ava.moore793@examplebiz.com,(816) 586-4541,OH,Cold Outreach,new,Alex Kim,2026-06-18,2026-08-04,2026-08-13,37200,Logistics,No,No,
+L-0338,Logan,lee,VERTEX SOLUTIONS,logan.lee447@mailhub.net,(492) 875-8167,TX,Outbound,Qual,Alex Kim,2026-05-09,2026-05-31,2026-06-20,51600,Biotech,Yes,No,
+L-0339,Liam,Martinez,,liam.martinez991@mailhub.net,(623) 860-7484,FL,Email,Qualified,CASEY PATEL,2026-07-14,2026-07-26,2026-08-13,80900,Retail,Yes,No,
+L-0340,emma,Anderson,Redstone Consulting,emma.anderson403@northmail.com,(792) 639-3111,CA,OUTBOUND,closed lost,Jamie Brooks,2026-06-12,2026-08-01,,18400,Biotech,Yes,No,2026-08-04
+L-0341,Olivia,Williams,BrightPath Health,olivia.williams943@northmail.com,(786) 591-1414,AZ,WEB,Closed Won,Alex Kim,2026-07-04,2026-07-05,,53500,Healthcare,Yes,Yes,2026-07-08
+L-0342,Emma,Smith,Summit Analytics,emma.smith80@mailhub.net,(571) 412-7402,NC,OUTBOUND,New,Jordan Lee,2026-07-07,2026-07-25,2026-08-05,76300,Technology,No,No,
+L-0343,LUNA,thompson,peakline systems,luna.thompson760@prospect.co,(325) 397-1484,IL,OUTBOUND,Qual, Alex Kim ,2026-03-08,2026-08-08,2026-08-28,2900,Technology,Yes,No,
+L-0344,Mia,Anderson,evergreen services,mia.anderson867@prospect.co,(603) 305-6105,PA,EMAIL,QUALIFIED,Jamie Brooks,2026-05-02,2026-05-26,2026-06-06,16800,Logistics,Yes,No,
+L-0345,Mia, Moore ,CedarWorks,logan.garcia247@northmail.com,(640) 390-6861,GA,Referral,Contact,Jordan Lee,2026-03-11,2026-07-24,2026-08-07,35400,Healthcare,No,No,
+L-0346, Olivia ,Martin,Apex Manufacturing,olivia.martin432@mailhub.net,(526) 527-4246,GA,Referral,opportunity,Jamie Brooks,2026-01-18,2026-07-08,2026-07-13,49900,Technology,Yes,No,
+L-0347,Amelia,Johnson,Peakline Systems, amelia.johnson325@prospect.co ,(610) 281-6131,OH,Website,qualified,,2026-01-12,2026-08-05,2026-08-21,62200,Biotech,Yes,No,
+L-0348,Noah,Wilson,,noah.wilson889@northmail.com,(466) 244-2815,CA,WEB,Opportunity,Jamie Brooks,2026-01-17,2026-04-21,2026-05-11,84100,Retail,Yes,No,
+L-0349,James,MOORE,SUMMIT ANALYTICS,james.moore785@prospect.co,(929) 284-6783,WA,Webinar,Qual,casey patel,2026-06-02,2026-07-13,2026-07-31,21100,Retail,Yes,No,
+L-0350,Olivia,perez,Redstone Consulting,olivia.perez395@mailhub.net,(836) 725-4326,PA,webinar,New,Casey Patel,2026-04-05,2026-05-02,2026-05-09,20500,Financial Services,No,No,
+L-0351, Benjamin ,Martin,Prairie Health,benjamin.martin442@prospect.co,(255) 651-5466,NY,Website,qualified,,2026-05-14,2026-07-08,2026-07-17,14900,Biotech,Yes,No,
+L-0352,Noah,Davis,Summit Analytics, noah.davis717@mailhub.net ,(602) 602-2659,CO,TRADE SHOW,CONTACTED,Alex Kim,2026-03-29,2026-04-23,2026-05-04,21200,Healthcare,No,No,
+L-0353,mason,Garcia,Redstone Consulting,elijah.lee544@mailhub.net,(382) 470-2261,CA,website,closed lost,Morgan Reed,2026-07-07,2026-07-07,,57400,Technology,Yes,No,2026-07-14
+L-0354,Noah,MARTINEZ,Redstone Consulting,noah.martinez14@prospect.co,(509) 927-6467,NC,linkedin,LOST,Morgan Reed,2026-06-08,2026-08-09,,23400,Logistics,Yes,No,2026-08-17
+L-0355, Mason ,Perez,Vertex Solutions,mason.perez696@mailhub.net,(740) 379-5346,FL,Linked In,NEW,Jamie Brooks,2026-05-08,2026-07-28,2026-08-03,82100,Biotech,No,No,
+L-0356,Logan,MARTINEZ,,logan.martinez572@examplebiz.com,(511) 698-5722,NC,Outbound,new,alex kim,2026-02-19,2026-03-29,2026-04-17,82300,Healthcare,No,No,
+L-0357,Lucas, Martin ,Blue Ridge Supply,lucas.martin298@examplebiz.com,(233) 684-6810,PA,referral,closed lost,Jordan Lee,2026-06-23,2026-07-20,,50800,Technology,Yes,No,2026-07-24
+L-0358,James,Lee,APEX MANUFACTURING,james.lee99@examplebiz.com,(740) 652-6132,NY,website,QUALIFIED,Morgan Reed,2026-03-05,2026-07-01,2026-07-21,17600,Financial Services,Yes,No,
+L-0359,Luna,Martin,Pioneer Tech,luna.martin7@mailhub.net,(982) 730-8540,WA,Trade Show,qualified,Jamie Brooks,2026-05-29,2026-06-04,2026-06-19,12900,Manufacturing,Yes,No,
+L-0360,Elijah,JACKSON,blue ridge supply,ethan.perez939@northmail.com,(318) 268-1000,OH,linkedin,NEW,Alex Kim,2026-03-05,2026-05-23,2026-05-26,69000,Retail,No,No,
+L-0361,Henry,Moore,Summit Analytics,henry.moore760@examplebiz.com,(688) 691-5751,CA,LinkedIn,NEW,Alex Kim,2026-01-15,2026-07-24,2026-08-17,22400,Professional Services,No,No,
+L-0362,Luna,Martinez,Peakline Systems,luna.martinez367@examplebiz.com,(558) 923-9602,CO,Cold Outreach,Contacted,Taylor Morgan,2026-07-08,2026-08-06,2026-08-23,25300,Logistics,No,No,
+L-0363,Benjamin,Thomas,,benjamin.thomas603@prospect.co,(799) 832-7615,WA,linkedin,Qualified,,2026-02-25,2026-07-09,2026-07-20,13200,Manufacturing,Yes,No,
+L-0364,Ethan,Thomas, Vertex Solutions ,ethan.thomas647@northmail.com,(379) 528-2763,CO,Tradeshow,New,Alex Kim,2026-02-02,2026-02-20,2026-03-09,65500,Technology,No,No,
+L-0365,Noah,Miller,Peakline Systems,noah.miller981@mailhub.net,(395) 412-8761,CO,Referral,Contacted,Jamie Brooks,2026-03-26,2026-04-13,2026-04-26,17800,Manufacturing,No,No,
+L-0366,Liam,Thompson,Redstone Consulting,henry.thompson786@mailhub.net,495-276-9755,FL,Email,CONTACTED, Jordan Lee ,2026-01-12,2026-03-17,2026-04-01,60500,Healthcare,No,No,
+L-0367,LIAM,JONES,Apex Manufacturing,liam.jones856@northmail.com,(555) 272-7819,OH,OUTBOUND,New,JAMIE BROOKS,2026-04-08,2026-04-26,2026-05-17,77100,Biotech,No,No,
+L-0368,Liam,Smith,apex manufacturing, liam.smith129@mailhub.net ,(919) 637-3257,OH,LinkedIn,New,Jamie Brooks,2026-04-11,2026-04-24,2026-05-09,65700,Professional Services,No,No,
+L-0369,Mason,Johnson,BrightPath Health,mason.johnson300@examplebiz.com,(821) 607-8843,CA,webinar,CONTACTED,Taylor Morgan,2026-05-24,2026-07-07,2026-07-29,56600,Healthcare,No,No,
+L-0370,Mason,Martin,Horizon Bio,mason.martin287@northmail.com,(409) 340-9535,PA,TRADE SHOW,New,Morgan Reed,2026-05-16,2026-07-07,2026-08-01,80900,Biotech,No,No,
+L-0371,Luna,Thomas,Evergreen Services,,(589) 388-8062,CO,referral,Opportunity,Jordan Lee,2026-04-08,2026-04-12,2026-04-27,34200,Technology,Yes,No,
+L-0372,Henry,Taylor,vertex solutions,henry.taylor475@mailhub.net,(787) 936-9501,TX,trade show,Closed-Lost,ALEX KIM,2026-02-20,2026-05-04,,73300,Healthcare,Yes,No,2026-05-08
+L-0373,SOPHIA,Anderson,Horizon Bio,sophia.anderson868@examplebiz.com,(655) 673-1282,OH,Email Campaign,opportunity, Casey Patel ,2026-07-12,2026-07-31,2026-08-21,57000,Financial Services,Yes,No,
+L-0374,Sophia,RODRIGUEZ,Atlas Commerce, benjamin.williams179@examplebiz.com ,(794) 524-1687,FL,LinkedIn,NEW,JORDAN LEE,2026-03-07,2026-03-19,2026-03-29,11900,Manufacturing,No,No,
+L-0375,olivia, Wilson ,Pioneer Tech,,(868) 583-8711,TX,LINKEDIN,closed won,Casey Patel,2026-07-07,2026-07-08,,29400,Professional Services,Yes,Yes,2026-07-08
+L-0376,Luna,Johnson,Blue Ridge Supply,luna.johnson562@mailhub.net,(752) 950-2986,OH,WEB,New,Jamie Brooks,2026-06-16,2026-07-22,2026-08-10,84800,Professional Services,No,No,
+L-0377,Noah,Davis,prairie health,noah.davis460@mailhub.net,(436) 783-3052,IL,website,Qual,Taylor Morgan,2026-07-24,2026-08-04,2026-08-27,42400,Professional Services,Yes,No,
+L-0378,Olivia,Garcia,Prairie Health, olivia.garcia854@mailhub.net ,(225) 906-3735,CA,WEB,Contacted,Jordan Lee,2026-03-24,2026-07-22,2026-07-28,12900,Healthcare,No,No,
+L-0379,Liam,Williams,Pioneer Tech, liam.williams188@northmail.com ,(356) 207-7060,AZ,Linked In,opportunity,Jamie Brooks,2026-04-23,2026-05-30,2026-06-17,60300,Logistics,Yes,No,
+L-0380,Isabella,Garcia,Blue Ridge Supply,isabella.garcia322@northmail.com,(556) 491-3713,PA,email campaign,OPP,Alex Kim,2026-04-24,2026-06-29,2026-07-10,49900,Healthcare,Yes,No,
+L-0381,ethan,smith,Peakline Systems,ethan.smith437@mailhub.net,(734) 329-8435,CO,Webinar,closed won,Alex Kim,2026-05-10,2026-06-05,,25800,Retail,Yes,Yes,2026-06-09
+L-0382,Isabella,Garcia,Redstone Consulting,isabella.garcia444@northmail.com,(923) 733-6202,NC,Linked In,qualified,Jordan Lee,2026-01-26,2026-02-13,2026-03-10,59300,Financial Services,Yes,No,
+L-0383,Ethan, Jackson ,Evergreen Services,ethan.jackson572@examplebiz.com,(928) 382-1635,FL,Linked In,new,Morgan Reed,2026-04-02,2026-05-26,2026-05-29,38300,Manufacturing,No,No,
+L-0384,Amelia,Thompson,Pioneer Tech,amelia.thompson334@examplebiz.com,(879) 635-2897,NY,Website,new,Morgan Reed,2026-01-31,2026-08-14,2026-08-26,37100,Logistics,No,No,
+L-0385,Olivia,taylor,Peakline Systems,olivia.taylor275@mailhub.net,(946) 424-6567,NY,LinkedIn,Contacted,,2026-01-17,2026-05-10,2026-05-26,35400,Biotech,No,No,
+L-0386,AMELIA,WILLIAMS,Redstone Consulting, amelia.williams859@mailhub.net ,(936) 434-5754,GA, Website ,New,taylor morgan,2026-06-20,2026-07-13,2026-08-02,18900,Biotech,No,No,
+L-0387,Lucas,smith,Clearview Media,lucas.smith898@prospect.co,,CO,REFERRAL,new,Jamie Brooks,2026-01-24,2026-04-30,2026-05-23,35600,Retail,No,No,
+L-0388,Ava,Martinez,Horizon Bio,ava.martinez96@examplebiz.com,(617) 774-5563,FL,Website,Closed-Lost,Morgan Reed,2026-03-18,2026-07-16,,33600,Logistics,Yes,No,2026-07-22
+L-0389,Harper,Anderson,Atlas Commerce,harper.anderson886@mailhub.net,(808) 455-2374,OH,REFERRAL,NEW,Taylor Morgan,2026-03-04,2026-03-25,2026-03-31,48800,Technology,No,No,
+L-0390,James,SMITH,Horizon Bio,james.smith495@northmail.com,(308) 635-2269,GA,Email,qualified,Jamie Brooks,2026-05-24,2026-08-15,2026-08-25,29100,Retail,Yes,No,
+L-0391,Elijah, Taylor ,Silverline Foods,elijah.taylor630@prospect.co,(778) 865-3718,NY,website,closed lost,Casey Patel,2026-02-09,2026-08-01,,24900,Healthcare,Yes,No,2026-08-05
+L-0392,BENJAMIN, Smith ,Redstone Consulting,benjamin.smith97@mailhub.net,(539) 296-2001,CA,WEB,new,Jamie Brooks,2026-08-11,2026-08-13,2026-09-07,18000,Professional Services,No,No,
+L-0393,Amelia,rodriguez,Apex Manufacturing,evelyn.perez355@mailhub.net,(539) 789-5542,WA,Website,opportunity,TAYLOR MORGAN,2026-06-02,2026-06-24,2026-07-05,49000,Technology,Yes,No,
+L-0394,Liam,Jones,Prairie Health,liam.jones793@mailhub.net,(924) 685-6816,OH,webinar,CONTACTED,Morgan Reed,2026-01-30,2026-03-01,2026-03-11,48700,Professional Services,No,No,
+L-0395,elijah,Taylor,Pioneer Tech,elijah.taylor219@examplebiz.com,(592) 583-3932,CO,Email Campaign,WON,Morgan Reed,2026-01-27,2026-07-17,,31000,Manufacturing,Yes,Yes,2026-07-22
+L-0396,Amelia,johnson,Horizon Bio,,(378) 684-9938,OH,Website,Qual,,2026-08-05,2026-08-16,2026-09-03,84800,Financial Services,Yes,No,
+L-0397,Liam, Wilson ,SUMMIT ANALYTICS,liam.wilson928@prospect.co,(729) 214-7605,FL,Linked In,Opportunity,Taylor Morgan,2026-05-19,2026-08-13,2026-08-26,76600,Financial Services,Yes,No,
+L-0398,Ava,martinez,Horizon Bio,ava.martinez120@northmail.com,(387) 947-2415,TX,referral,qualified,Jordan Lee,2026-02-15,2026-03-09,2026-03-30,79200,Biotech,Yes,No,
+L-0399,Amelia, Martinez ,CedarWorks,amelia.martinez303@prospect.co,(915) 650-5334,CA,Tradeshow,Contact,Taylor Morgan,2026-01-11,2026-02-28,2026-03-11,75400,Financial Services,No,No,
+L-0400,Lucas,Miller,REDSTONE CONSULTING,lucas.miller530@examplebiz.com,(687) 343-8655,TX,WEBINAR,Contacted, Jordan Lee ,2026-06-18,2026-07-17,2026-07-28,5100,Financial Services,No,No,
